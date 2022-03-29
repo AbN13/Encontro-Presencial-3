@@ -1,0 +1,7 @@
+console.log("* Sequência de 3 Cálculos *")
+ca1=(15*2+10*9)
+console.log("=> primeiro cálculo = "+ ca1)
+ca2=((10+10+14)/2)
+console.log("=> segundo cálculo = "+ ca2)
+ca3=(((100/2)*4)/5)
+console.log("=> terceiro cálculo = "+ ca3)
